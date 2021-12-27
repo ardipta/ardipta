@@ -20,7 +20,7 @@
 <a href="https://stackoverflow.com/users/14559167/md-ashiqur-rahaman-dipto" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14559167/md-ashiqur-rahaman-dipto" height="30" width="40" /></a>
 <a href="https://fb.com/ardipta82" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ardipta82" height="30" width="40" /></a>
 <a href="https://dribbble.com/ashiqur35" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="ashiqur35" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/uc__2jz7demvqcrevkl0q8rg" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uc__2jz7demvqcrevkl0q8rg" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC__2jZ7dEMvqCRevKL0q8rg" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uc__2jz7demvqcrevkl0q8rg" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ardipta82" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ardipta82" height="30" width="40" /></a>
 </p>
 
