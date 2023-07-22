@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md. Ashiqur Rahaman Dipto</h1>
-<h3 align="center">Software Engineer(Full Stack)</h3>
+<h3 align="center">Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ardipta&label=Profile%20views&color=0e75b6&style=flat" alt="ardipta" /> </p>
 
