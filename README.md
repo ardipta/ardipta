@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ardipta" alt="ardipta" /></a> </p>
 
-- 🌱 I’m currently working on **NodeJs, ReactJs, Laravel, EXTJs, ReactNative, etc**
+- 🌱 I’m currently working on **Golang, VueJs, NuxtJs, ReactJs, ReactNative, etc**
 
 - 👨‍💻 My Portfolio Link [https://ardipto-portfolio.herokuapp.com/](https://ardipto-portfolio.herokuapp.com/)
 
